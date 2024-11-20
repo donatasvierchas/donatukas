@@ -1,0 +1,27 @@
+header{
+    color: blueviolet;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+nav{
+    border: 1px solid black;
+    border-color: rgb(15, 15, 15);
+    text-align: center;
+    background-color: blueviolet;
+    
+    
+}
+img{
+    width: 900px;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+a{
+    padding: 30px;
+    color: black;
+}
+img{
+    width: 150px;
+}
